@@ -1,0 +1,24 @@
+{
+  "name": "marked-react",
+  "version": "1.0.0",
+  "description": "React renderer for chjj/marked markdown library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inosphe/marked-react.git"
+  },
+  "keywords": [
+    "react",
+    "marked",
+    "markdown"
+  ],
+  "author": "inosphe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inosphe/marked-react/issues"
+  },
+  "homepage": "https://github.com/inosphe/marked-react"
+}
